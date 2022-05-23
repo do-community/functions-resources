@@ -2,8 +2,6 @@
 
 This repo is dedicated to resources for using [DigitalOcean Cloud Functions](https://www.digitalocean.com/).
 
-- **[Sample Apps](#sample-apps)**: See how apps can integrate MongoDB
-
 ## Sample Apps
 
 Following are sample apps that you can deploy to DigitalOcean Functions
